@@ -28,4 +28,4 @@
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l9cwo7e2qllp0iq6z5enq8g4b&cover_image=true&theme=default&show_offline=false&background_color=272626&interchange=false&bar_color=486e45&bar_color_cover=false)]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l9cwo7e2qllp0iq6z5enq8g4b&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/d0rian3/spotify-github-profile)
