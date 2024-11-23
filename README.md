@@ -5,11 +5,10 @@
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:d0rian3"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
 <h1 align="center">Hi 👋, I'm d0rian3</h1>
-<h3 align="center">Be Someone Who <b>INSPIRES</b>, <b>Don't Be</b> a <b>REPEATER</b></h3>
+<h3 align="center">Be Someone Who <b>Inspires</b>, <b>Don't Be</b> a <b>Repeater</b></h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0rian3&theme=dark&hide_border=true" alt="d0rian3" /></p>
 
