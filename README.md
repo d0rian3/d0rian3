@@ -4,7 +4,7 @@
 </p> -->
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:d0rian3" align="right"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:d0rian3"></a>
 
 </p>
 
