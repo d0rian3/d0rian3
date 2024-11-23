@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm d0rian3</h1>
-<h3 align="center">Be someone who inspires, don't be a repeater</h3>
+<h3 align="center">Be someone who <b>inspires</b>, <b>Don't Be</b> a <b>repeater</b></h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0rian3&theme=dark&hide_border=true" alt="d0rian3" /></p>
 
