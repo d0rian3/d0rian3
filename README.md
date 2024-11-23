@@ -11,9 +11,9 @@
 <h1 align="center">Hi 👋, I'm d0rian3</h1>
 <h3 align="center">Be someone who inspires, don't be a repeater</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0rian3&layout=compact&hide=html" alt="d0rian3" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0rian3&theme=dark&hide_border=true" alt="d0rian3" /></p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=d0rian3&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=d0rian3&show_icons=true&theme=dark&hide_border=true)
 
 ### 🎧 Spotify Playing
 
