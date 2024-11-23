@@ -17,6 +17,6 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="[https://now-playing-codestackr.vercel.app](https://spotify-github-profile.kittinanx.com)/api/spotify-playing" alt="d0rian3 Spotify Playing" width="350" />](https://open.spotify.com/user/l9cwo7e2qllp0iq6z5enq8g4b)
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l9cwo7e2qllp0iq6z5enq8g4b&cover_image=true&theme=default&show_offline=false&background_color=272626&interchange=false&bar_color=486e45&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
