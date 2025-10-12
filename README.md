@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm d0rian3</h1>
-<h3 align="center">Be Someone Who <b>Inspires</b>, <b>Don't Be</b> a <b>Repeater</b></h3>
+<h3 align="center">Obsession beats talent.</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0rian3&theme=dark&hide_border=true" alt="d0rian3" /></p>
 
