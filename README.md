@@ -1,23 +1,3 @@
-<!-- Header Wave (Commented Out)
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
-</div>
--->
-
-<!-- Footer Wave (Commented Out)
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
@@ -34,7 +14,7 @@
 <div align="center">
   <!-- Profile Views -->
   <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+    <img src="https://komarev.com/ghpvc/?username=d0rian3&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
   <!-- Total Stars -->
   <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
