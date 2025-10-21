@@ -8,7 +8,12 @@
 <h2 align="center">❂ I am Tymur Solovei</h2>
 
 <h4 align="left">
-✨ I am currently pursuing a Bachelor's degree in Computer Science, with a strong focus on enhancing my programming skills and exploring diverse areas within the IT industry. My academic and personal journey is dedicated to building a solid foundation in computer science fundamentals while engaging with emerging technologies. I strive to acquire knowledge that enables adaptability across diverse technological domains, with a passion for continuous learning, innovation, and applying skills to solve real-world challenges.
+✨ Right now, I’m working on an e-bike e-commerce website — a project that combines technology, design, and real-world business logic.
+
+My main stack includes React, Django, and PostgreSQL, but I enjoy exploring new tools that make development cleaner and more efficient.
+I’m passionate about creating intuitive, user-friendly interfaces and writing maintainable, scalable code.
+
+Always learning, building, and improving — one commit at a time ⚡.
 </h4>
 
 <div align="center">
