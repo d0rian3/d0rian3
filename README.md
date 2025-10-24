@@ -41,14 +41,14 @@ Always learning, building, and improving — one commit at a time ⚡.
   ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
 </p>
 
-<h3>🧲 Connect with Me:</h3>
+<!-- <h3>🧲 Connect with Me:</h3>
 <div align="center">
   <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
   <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
-</div>
+</div> -->
 
 <br/>
 
@@ -62,19 +62,19 @@ Always learning, building, and improving — one commit at a time ⚡.
 <br/><br/>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<!-- <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
   <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
   <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
-</div>
+</div> -->
 
 <br/>
 
 <!-- Best Repositories -->
-<div align="center">
+<!-- <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <p align="center">
     <a href="https://github.com/JoshuaThadi/Data-Science">
@@ -90,10 +90,10 @@ Always learning, building, and improving — one commit at a time ⚡.
     <a href="https://github.com/JoshuaThadi/Digital-Products">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Digital-Products&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
-</div>
+</div> -->
 
 <!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<!-- <h3 align="center">💻 Tech Stack</h3>
 <br/>
 <div align="center">
   
@@ -107,7 +107,7 @@ Always learning, building, and improving — one commit at a time ⚡.
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-</div>
+</div> -->
 
 <!-- Support -->
 
