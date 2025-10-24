@@ -55,7 +55,7 @@ Always learning, building, and improving — one commit at a time ⚡.
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=d0rian3&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=d0rian3&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=d0rian3&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
